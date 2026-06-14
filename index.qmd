@@ -5,7 +5,7 @@ format: html
 ---
 
 ::: {text-align="center"}
-## **OteaBooks**: Libros de libre acceso que se pueden comprar
+## **OteaBooks**: Estoy haciendo pruebas
 [Descripción breve del proyecto...]
 :::
 
@@ -26,4 +26,9 @@ format: html
 [Enlace al libro]{.btn .btn-outline-primary .btn-sm}
 :::
 
+:::
+
+::: {.callout-note appearance="simple" icon=false}
+## ✉️ Contacto
+Si tienes alguna pregunta o sugerencia, o detectas algún error, puedes escribirnos a [OteaBooks](mailto:soporte@tuweb.com).
 :::
