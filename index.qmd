@@ -4,9 +4,10 @@ format: html
 ---
 
 ::: {text-align="center"}
-## **OteaBooks**: Estoy haciendo pruebas
+**OteaBooks** es el sello con el que publicamos nuestros libros en Amazon. Hemos cuidado todos los detalles de la edición para que el contenido se presente con claridad y sea fácil de seguir. Creemos que el contenido importa, pero también la forma en que se presenta.
 
-\[Descripción breve del proyecto...\]
+Además, todos los libros pueden consultarse gratuitamente en línea, en cualquier momento y desde cualquier lugar.
+
 :::
 
 ::: grid
@@ -14,22 +15,29 @@ format: html
 
 ![](coverPreguntas.jpg){width=80%}
 
-Aquí descripción. Aquí descripción. Aquí descripción. Aquí descripción. Aquí descripción. Aquí descripción. Aquí descripción.Aquí descripción.
+*Respuesta detallada a las preguntas que suelen surgir en los cursos introductorios de estadística, o en discusiones sobre las posibilidades y relevancia de esta disciplina.*
 
 [Enlace al libro](https://peregrima.github.io/Estadistica_FAQ/){.btn .btn-outline-primary .btn-sm}
+
+Comprar en: [Amazon.com](https://a.co/d/07REvkXh){.btn .btn-outline-primary .btn-sm} [Amazon.es](https://amzn.eu/d/09JVSKhU){.btn .btn-outline-primary .btn-sm}
 :::
 
 ::: {.g-col-12 .g-col-md-4 text-align="center"}
 
 ![](coverEstadistica.jpg){width=80%}
 
+*Contenido habitual en cursos introductorios. Lenguaje cercano y especial atención a los conceptos y las aplicaciones. Las matemáticas son una actor del reparto, no el protagonista.*
+
 [Enlace al libro](https://peregrima.github.io/Estadistica_Entender/){.btn .btn-outline-primary .btn-sm}
+
+Comprar en: [Amazon.com](https://a.co/d/099mmgNH){.btn .btn-outline-primary .btn-sm} [Amazon.es](https://amzn.eu/d/001hh26f){.btn .btn-outline-primary .btn-sm}
 :::
 
 ::: {.g-col-12 .g-col-md-4 text-align="center"}
 ### Libro 3
 
-[Enlace al libro]{.btn .btn-outline-primary .btn-sm}
+en camino...
+<!-- [Enlace al libro]{.btn .btn-outline-primary .btn-sm} -->
 :::
 :::
 
