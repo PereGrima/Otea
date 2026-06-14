@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Otea",
+    "title": "**OteaBooks** <small style='font-size: 0.8em;'>*Libros de acceso gratuito*</small>",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "[Descripción breve del proyecto…]"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,61 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#libros",
+    "href": "index.html#libros",
+    "title": "OteaBooks",
+    "section": "Libros",
+    "text": "Libros\n\nTítulo del libro 1\nBreve descripción.\nTítulo del libro 2\nBreve descripción."
+  },
+  {
+    "objectID": "index.html#materiales",
+    "href": "index.html#materiales",
+    "title": "OteaBooks",
+    "section": "Materiales",
+    "text": "Materiales\n\nProbabilidad\nSimulación\nDiagramas de Venn\nRecursos en R"
+  },
+  {
+    "objectID": "index.html#últimos-contenidos",
+    "href": "index.html#últimos-contenidos",
+    "title": "OteaBooks",
+    "section": "Últimos contenidos",
+    "text": "Últimos contenidos\n\nColecciones de cromos\nDiagramas de Venn\nSimulación en R"
+  },
+  {
+    "objectID": "index.html#sobre-el-proyecto",
+    "href": "index.html#sobre-el-proyecto",
+    "title": "OteaBooks",
+    "section": "Sobre el proyecto",
+    "text": "Sobre el proyecto\nEste sitio reúne materiales docentes, textos de divulgación y proyectos relacionados con la probabilidad, la incertidumbre y la exploración matemática."
+  },
+  {
+    "objectID": "index.html#title-false",
+    "href": "index.html#title-false",
+    "title": "OteaBooks: Libros de texto de libre acceso",
+    "section": "title: false",
+    "text": "title: false"
+  },
+  {
+    "objectID": "index.html#title",
+    "href": "index.html#title",
+    "title": "OteaBooks: Libros de texto de libre acceso",
+    "section": "title: “”",
+    "text": "title: “”"
+  },
+  {
+    "objectID": "index.html#oteabooks-libros-de-libre-acceso-que-también-se-pueden-comprar",
+    "href": "index.html#oteabooks-libros-de-libre-acceso-que-también-se-pueden-comprar",
+    "title": "OteaBooks",
+    "section": "",
+    "text": "[Descripción breve del proyecto…]"
+  },
+  {
+    "objectID": "index.html#oteabooks-libros-de-libre-acceso-que-se-pueden-comprar",
+    "href": "index.html#oteabooks-libros-de-libre-acceso-que-se-pueden-comprar",
+    "title": "**OteaBooks** <small style='font-size: 0.8em;'>*Libros de acceso gratuito*</small>",
+    "section": "",
+    "text": "[Descripción breve del proyecto…]"
   }
 ]

@@ -1,11 +1,29 @@
+
 ---
-title: "Otea"
+title: ""
+format: html
 ---
 
-This is a Quarto website.
+::: {text-align="center"}
+## **OteaBooks**: Libros de libre acceso que se pueden comprar
+[Descripción breve del proyecto...]
+:::
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.grid}
 
-```{r}
-1 + 1
-```
+::: {.g-col-12 .g-col-md-4 text-align="center"}
+### Libro 1
+[Enlace al libro]{.btn .btn-outline-primary .btn-sm}
+:::
+
+::: {.g-col-12 .g-col-md-4 text-align="center"}
+### Libro 2
+[Enlace al libro]{.btn .btn-outline-primary .btn-sm}
+:::
+
+::: {.g-col-12 .g-col-md-4 text-align="center"}
+### Libro 3
+[Enlace al libro]{.btn .btn-outline-primary .btn-sm}
+:::
+
+:::

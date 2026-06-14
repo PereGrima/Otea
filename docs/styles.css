@@ -1,0 +1,149 @@
+```css
+/* ======= ESTILO GENERAL ======= */
+
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 19px;
+  line-height: 1.75;
+  color: #222;
+}
+
+/* Anchura de lectura tipo libro */
+main.content {
+  max-width: 850px;
+  margin: auto;
+}
+
+/* ======= TÍTULOS ======= */
+
+h1 {
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+
+h2 {
+  margin-top: 2rem;
+  margin-bottom: 0.8rem;
+  font-weight: 600;
+}
+
+h3 {
+  margin-top: 1.5rem;
+}
+
+/* ======= MENÚ SUPERIOR ======= */
+
+.navbar {
+  background-color: white;
+  border-bottom: 1px solid #ececec;
+}
+
+.navbar-title {
+  font-weight: 600;
+}
+
+.nav-link {
+  font-size: 1rem;
+}
+
+/* ======= ENLACES ======= */
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ======= PÁRRAFOS ======= */
+
+p {
+  margin-bottom: 1rem;
+}
+
+/* ======= IMÁGENES ======= */
+
+img {
+  max-width: 100%;
+  display: block;
+  margin: 2rem auto;
+}
+
+/* ======= TABLAS ======= */
+
+table {
+  font-size: 0.95rem;
+}
+
+/* ======= TOC LATERAL ======= */
+
+#TOC {
+  font-size: 0.95rem;
+}
+
+/* ======= MÓVIL ======= */
+
+@media (max-width: 768px) {
+
+  body {
+    font-size: 18px;
+  }
+
+  main.content {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+```
+:::
+
+Y en `styles.css` usa algo así:
+
+:::writing{variant="document" id="58241"}
+```css
+/* ===== BANNER SUPERIOR ===== */
+
+.top-banner {
+  background-color: #d7d7d7;
+  padding: 3rem 2rem;
+  text-align: center;
+
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-top: -1rem;
+  margin-bottom: 3rem;
+}
+
+.top-banner h1 {
+  margin: 0;
+  font-size: 2.8rem;
+  font-weight: 600;
+  color: #222;
+}
+
+.top-banner p {
+  margin-top: 1rem;
+  font-size: 1.2rem;
+  color: #444;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+```
+:::
+
+Dos sugerencias de contenido:
+
+1. **“OteaBooks” vs “Otea Libros”**: decide uno solo y sé consistente. Personalmente, si la web está en español/catalán, **“Otea Libros”** me parece más coherente y cercano.
+
+2. La frase introductoria del banner quizá es un poco larga. En OTexts suele funcionar mejor algo muy breve, por ejemplo:
+
+> *Probabilidad, estadística y exploración matemática*
+
+o
+
+> *Libros y materiales sobre azar, incertidumbre y matemáticas*
+
+Queda más limpio visualmente.

@@ -3,21 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "Otea"
-  site-url: "https://otea.com"
+  title: "**OteaBooks** <small style='font-size: 0.8em;'>*Libros de acceso gratuito*</small>"
+  site-url: "https://oteabooks.com"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    collapse: true
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
-    toc: true
+    theme: default      # Un estilo muy limpio y tipografía ligera
+    css: custom.scss         # Personalización del color
+    toc: false          # Desactivamos el índice lateral para mantener la web limpia
+    page-layout: article # Mantiene el contenido perfectamente centrado y legible
 
 editor: visual
 
