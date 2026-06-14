@@ -13,7 +13,7 @@ format:
     theme: default      # Un estilo muy limpio y tipografía ligera
     css: custom.scss         # Personalización del color
     toc: false          # Desactivamos el índice lateral para mantener la web limpia
-    page-layout: article # Mantiene el contenido perfectamente centrado y legible
+    page-layout: full # Mantiene el contenido perfectamente centrado y legible
 
 editor: visual
 

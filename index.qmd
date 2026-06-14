@@ -4,22 +4,26 @@ format: html
 ---
 
 ::: {text-align="center"}
-## **OteaBooks**: Estoy haciendoooo pruebasssss
+## **OteaBooks**: Estoy haciendo pruebas
 
 \[Descripción breve del proyecto...\]
 :::
 
 ::: grid
 ::: {.g-col-12 .g-col-md-4 text-align="center"}
-### Libro 1
 
-[Enlace al libro]{.btn .btn-outline-primary .btn-sm}
+![](coverPreguntas.jpg){width=80%}
+
+Aquí descripción. Aquí descripción. Aquí descripción. Aquí descripción. Aquí descripción. Aquí descripción. Aquí descripción.Aquí descripción.
+
+[Enlace al libro](https://peregrima.github.io/Estadistica_FAQ/){.btn .btn-outline-primary .btn-sm}
 :::
 
 ::: {.g-col-12 .g-col-md-4 text-align="center"}
-### Libro 2
 
-[Enlace al libro]{.btn .btn-outline-primary .btn-sm}
+![](coverEstadistica.jpg){width=80%}
+
+[Enlace al libro](https://peregrima.github.io/Estadistica_Entender/){.btn .btn-outline-primary .btn-sm}
 :::
 
 ::: {.g-col-12 .g-col-md-4 text-align="center"}
