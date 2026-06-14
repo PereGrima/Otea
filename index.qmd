@@ -4,7 +4,7 @@ format: html
 ---
 
 ::: {text-align="center"}
-## **OteaBooks**: Estoy haciendo pruebas
+## **OteaBooks**: Estoy haciendoooo pruebas
 
 \[Descripción breve del proyecto...\]
 :::
