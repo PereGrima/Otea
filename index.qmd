@@ -1,6 +1,5 @@
 ---
-title: "OteaBooks"
-format: html
+title: ""
 ---
 
 ::: {text-align="center"}
@@ -44,5 +43,5 @@ en camino...
 ::: {.callout-note appearance="simple" icon="false"}
 ## ✉️ Contacto
 
-Si tienes alguna pregunta o sugerencia, o detectas algún error, puedes escribirnos a [OteaBooks](oteabooks@gmail.com).
+Si tienes alguna pregunta o sugerencia, o detectas algún error, puedes escribirnos a [OteaBooks](mailto:oteabooks@gmail.com).
 :::
