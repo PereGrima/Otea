@@ -44,5 +44,5 @@ en camino...
 ::: {.callout-note appearance="simple" icon="false"}
 ## ✉️ Contacto
 
-Si tienes alguna pregunta o sugerencia, o detectas algún error, puedes escribirnos a [OteaBooks](mailto:soporte@tuweb.com).
+Si tienes alguna pregunta o sugerencia, o detectas algún error, puedes escribirnos a [OteaBooks](oteabooks@gmail.com).
 :::
