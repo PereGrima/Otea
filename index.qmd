@@ -14,7 +14,7 @@ Además, todos los libros pueden consultarse gratuitamente en línea, en cualqui
 
 ![](coverPreguntas.jpg){width=80%}
 
-*Respuesta detallada a las preguntas que suelen surgir en los cursos introductorios de estadística, o en discusiones sobre las posibilidades y relevancia de esta disciplina.*
+*Respuesta detallada a preguntas que suelen surgir en cursos introductorios y también en discusiones sobre las posibilidades y la relevancia de esta disciplina.*
 
 [Enlace al libro](https://peregrima.github.io/Estadistica_FAQ/){.btn .btn-outline-primary .btn-sm}
 
@@ -25,7 +25,7 @@ Comprar en: [Amazon.com](https://a.co/d/07REvkXh){.btn .btn-outline-primary .btn
 
 ![](coverEstadistica.jpg){width=86%}
 
-*Contenido habitual en cursos introductorios. Lenguaje cercano y especial atención a los conceptos y las aplicaciones. Las matemáticas son una actor del reparto, no el protagonista.*
+*Contenido habitual en cursos introductorios. Lenguaje cercano y especial atención a los conceptos y las aplicaciones. Las matemáticas son un actor del reparto, no el protagonista.*
 
 [Enlace al libro](https://peregrima.github.io/Estadistica_Entender/){.btn .btn-outline-primary .btn-sm}
 
