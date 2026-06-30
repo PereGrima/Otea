@@ -23,7 +23,7 @@ Comprar en: [Amazon.com](https://a.co/d/07REvkXh){.btn .btn-outline-primary .btn
 
 ::: {.g-col-12 .g-col-md-4 text-align="center"}
 
-![](coverEstadistica.jpg){width=80%}
+![](coverEstadistica.jpg){width=86%}
 
 *Contenido habitual en cursos introductorios. Lenguaje cercano y especial atención a los conceptos y las aplicaciones. Las matemáticas son una actor del reparto, no el protagonista.*
 
