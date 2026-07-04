@@ -5,6 +5,7 @@ project:
 website:
   title: "**OteaBooks** <small style='font-size: 0.8em;'>*Libros de acceso gratuito*</small>"
   site-url: "https://oteabooks.com"
+  google-analytics: "G-1WK208HRX7"
   navbar:
     collapse: true
 
@@ -16,4 +17,3 @@ format:
     page-layout: full # Mantiene el contenido perfectamente centrado y legible
 
 editor: visual
-
